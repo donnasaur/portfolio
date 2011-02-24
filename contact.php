@@ -16,6 +16,7 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 				<img id="selfPic" src="images/self_pic.png" height="100px" width="125px" alt="Cartoon Face">
 				<p>I am a writing, drawing, doodling, tech dabbling, boardgame obsessing machine. I received my B.S. for Chemical Biology at the <a href="http://www.berkeley.edu" target="_blank">University of California, Berkeley</a> in 2008 and am currently pursuing my Master of Fine Arts at the <a href="http://cartoonstudies.org" target="_blank">Center for Cartoon Studies</a> (2012). Whew, that was a lot of information at once! To see what else I am up to visit:</p>
 				<ul>
+					<li><a href="http://www.donnaalmendrala.name" target="_blank">Homepage</a></li>
 					<li><a href="http://blog.donnaalmendrala.name" target="_blank">My Blog</a></li>
 					<li><a href="">COMING SOON! Python Comics</a>: a webcomic to spread the good news of Python</li>
 					<li><a href="http://cuddleboobs.blogspot.com" target="_blank">Cuddleboobs</a>: an old weblog/comic about friends and family</li>
