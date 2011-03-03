@@ -11,7 +11,7 @@
 	
 	font-family: 'Droid Serif';
 	src: url('../fonts/DroidSerif/DroidSerif-Bold-webfont.eot?') format('eot');
-	src: url('../fonts/DroidSerif/DroidSerif-Bold-webfont.woff') format('woff'), 		url('../fonts/DroidSerif/DroidSerif-Bold-webfont.ttf') format('truetype'), 		url('../fonts/DroidSerif/DroidSerif-Bold-webfont.svg#webfontX4pGz9fc')format('svg');
+	src: url('../fonts/DroidSerif/DroidSerif-Bold-webfont.woff') format('woff'), 		url('../fonts/DroidSerif/DroidSerif-Bold-webfont.ttf') format('truetype'), 		url('../fonts/DroidSerif/DroidSerif-Bold-webfont.svg#svgDroidSerif')format('svg');
 	font-weight: 700;
 	font-style: normal;
 }
@@ -23,7 +23,7 @@
 	src: url('../fonts/DroidSerif/DroidSerif-BoldItalic-webfont.eot?') format('eot');
 	src: url('../fonts/DroidSerif/DroidSerif-BoldItalic-webfont.woff') format('woff'), 
 		url('../fonts/DroidSerif/DroidSerif-BoldItalic-webfont.ttf') format('truetype'), 
-		url('../fonts/DroidSerif/DroidSerif-BoldItalic-webfont.svg#webfontX4pGz9fc') format('svg');
+		url('../fonts/DroidSerif/DroidSerif-BoldItalic-webfont.svg#myfont-webfont.svg#svgDroidSerif') format('svg');
 	font-weight: 700;
 	font-style: italic;
 }
@@ -34,7 +34,7 @@
 	src: url('../fonts/DroidSerif/DroidSerif-Italic-webfont.eot?') format('eot');
 	src: url('../fonts/DroidSerif/DroidSerif-Italic-webfont.woff') format('woff'), 
 		url('../fonts/DroidSerif/DroidSerif-Italic-webfont.ttf') format('truetype'), 
-		url('../fonts/DroidSerif/DroidSerif-Italic-webfont.svg#webfontX4pGz9fc') format('svg');
+		url('../fonts/DroidSerif/DroidSerif-Italic-webfont.svg#svgDroidSerif') format('svg');
 	font-weight: 400;
 	font-style: italic;
 }
@@ -44,7 +44,7 @@
 	font-family: 'Droid Serif';
 	src: url('../fonts/DroidSerif/DroidSerif-Regular-webfont.eot?') format('eot');
 	src: url('../fonts/DroidSerif/DroidSerif-Regular-webfont.woff') format('woff'), 		url('../fonts/DroidSerif/DroidSerif-Regular-webfont.ttf') format('truetype'), 
-		url('../fonts/DroidSerif/DroidSerif-Regular-webfont.svg#webfontX4pGz9fc') format('svg');
+		url('../fonts/DroidSerif/DroidSerif-Regular-webfont.svg#svgDroidSerif') format('svg');
 	font-weight: 400;
 	font-style: normal;
 }
@@ -55,7 +55,7 @@
 	src: url('../fonts/FontinSans/FontinSans-Bold.eot?') format('eot');
 	src: url('../fonts/FontinSans/FontinSans-Bold.woff') format('woff'), 
 		url('../fonts/FontinSans/FontinSans-Bold.ttf') format('truetype'), 
-		url('../fonts/FontinSans/FontinSans-Bold.svg#webfontX4pGz9fc') format('svg');
+		url('../fonts/FontinSans/FontinSans-Bold.svg#svgFontinSans') format('svg');
 	font-weight: 700;
 	font-style: normal;
 }
@@ -67,7 +67,7 @@
 	src: url('../fonts/FontinSans/FontinSans-BoldItalic.eot?') format('eot');
 	src: url('../fonts/FontinSans/FontinSans-BoldItalic.woff') format('woff'), 
 		url('../fonts/FontinSans/FontinSans-BoldItalic.ttf') format('truetype'), 
-		url('../fonts/FontinSans/FontinSans-BoldItalic.svg#webfontX4pGz9fc') format('svg');
+		url('../fonts/FontinSans/FontinSans-BoldItalic.svg#svgFontinSans') format('svg');
 	font-weight: 700;
 	font-style: italic;
 }
@@ -79,7 +79,7 @@
 	src: url('../fonts/FontinSans/FontinSans-Italic.eot?') format('eot');
 	src: url('../fonts/FontinSans/FontinSans-Italic.woff') format('woff'),
 		url('../fonts/FontinSans/FontinSans-Italic.ttf') format('truetype'), 
-		url('../fonts/FontinSans/FontinSans-Italic.svg#webfontX4pGz9fc') format('svg');
+		url('../fonts/FontinSans/FontinSans-Italic.svg#svgFontinSans') format('svg');
 	font-weight: 400;
 	font-style: italic;
 }
@@ -91,7 +91,7 @@
 		src: url('../fonts/FontinSans/FontinSans-Regular.eot?') format('eot');
 		src: url('../fonts/FontinSans/FontinSans-Regular.woff') format('woff'), 
 			url('../fonts/FontinSans/FontinSans-Regular.ttf') format('truetype'), 
-			url('../fonts/FontinSans/FontinSans-Regular.svg#webfontX4pGz9fc') format('svg');
+			url('../fonts/FontinSans/FontinSans-Regular.svg#svgFontinSans') format('svg');
 	font-weight: 400;
 	font-style: normal;
 }
@@ -102,7 +102,7 @@
 	font-family: 'Kontrapunkt';
 	src: url('../fonts/Kontrapunkt/Kontrapunkt-Bold-webfont.eot?') format('eot');
 	src: url('../fonts/Kontrapunkt/Kontrapunkt-Bold-webfont.woff') format('woff'), 		url('../fonts/Kontrapunkt/Kontrapunkt-Bold-webfont.ttf') format('truetype'), 
-		url('../fonts/Kontrapunkt/Kontrapunkt-Bold-webfont.svg#webfontX4pGz9fc') format('svg');
+		url('../fonts/Kontrapunkt/Kontrapunkt-Bold-webfont.svg#svgKontrapunkt') format('svg');
 	font-weight: 700;
 	font-style: normal;
 }
@@ -113,7 +113,7 @@
 	font-family: 'Kontrapunkt';
 	src: url('../fonts/Kontrapunkt/Kontrapunkt-Light-webfont.eot?') format('eot');
 	src: url('../fonts/Kontrapunkt/Kontrapunkt-Light-webfont.woff') format('woff'), 		url('../fonts/Kontrapunkt/Kontrapunkt-Light-webfont.ttf') format('truetype'), 
-		url('../fonts/Kontrapunkt/Kontrapunkt-Light-webfont.svg#webfontX4pGz9fc') format('svg');
+		url('../fonts/Kontrapunkt/Kontrapunkt-Light-webfont.svg#svgKontrapunkt') format('svg');
 	font-weight: 200;
 	font-style: normal;
 }
@@ -125,7 +125,7 @@
 	src: url('../fonts/Kontrapunkt/Kontrapunkt-LightItalic-webfont.eot?') format('eot');
 	src: url('../fonts/Kontrapunkt/Kontrapunkt-LightItalic-webfont.woff') format('woff'), 
 		url('../fonts/Kontrapunkt/Kontrapunkt-LightItalic-webfont.ttf') format('truetype'), 
-		url('../fonts/Kontrapunkt/Kontrapunkt-LightItalic-webfont.svg#webfontX4pGz9fc') format('svg');
+		url('../fonts/Kontrapunkt/Kontrapunkt-LightItalic-webfont.svg#svgKontrapunkt') format('svg');
 	font-weight: 200;
 	font-style: italic;
 }
@@ -136,7 +136,7 @@
 	
 	font-family: 'Droid Sans Mono';
 	src: url('../fonts/DroidSansMono/DroidSansMono-webfont.eot');
-	src: url('../fonts/DroidSansMono/DroidSansMono-webfont.woff') format('woff'), 		url('../fonts/DroidSansMono/DroidSansMono-webfont.ttf') format('truetype'), 		url('../fonts/DroidSansMono/DroidSansMono-webfont.svg#webfontX4pGz9fc') format('svg');
+	src: url('../fonts/DroidSansMono/DroidSansMono-webfont.woff') format('woff'), 		url('../fonts/DroidSansMono/DroidSansMono-webfont.ttf') format('truetype'), 		url('../fonts/DroidSansMono/DroidSansMono-webfont.svg#svgDroidSansMono') format('svg');
 	font-weight: 400;
 	font-style: normal;
 }
