@@ -10,7 +10,19 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 
 <?php include("includes/header.php"); ?>
 			<div id="content">
-				<h6 class="clear">AVAST! Part 3</h6>
+				<h6 class="clear">Monster Handler (2011)</h6>
+				<div class="thumbnail"><a href="images/da_mh_ink1.png" rel="lightbox[monsterhandler]" title="Monster Handler page1"><img src="images/da_mh_ink1_thumb.png" height="46px" width="42px" alt="Monster Handler page1" /></a></div>
+				<div class="thumbnail"><a href="images/da_mh_ink2.png" rel="lightbox[monsterhandler]" title="Monster Handler page2"><img src="images/da_mh_ink2_thumb.png" height="46px" width="42px" alt="Monster Handler page2" /></a></div>
+				<div class="thumbnail"><a href="images/da_mh_ink3.png" rel="lightbox[monsterhandler]" title="Monster Handler page3"><img src="images/da_mh_ink3_thumb.png" height="46px" width="42px" alt="Monster Handler page3" /></a></div>
+				<div class="thumbnail"><a href="images/da_mh_ink4.png" rel="lightbox[monsterhandler]" title="Monster Handler page4"><img src="images/da_mh_ink4_thumb.png" height="46px" width="42px" alt="Monster Handler page4" /></a></div>
+				<div class="thumbnail"><a href="images/da_mh_ink5.png" rel="lightbox[monsterhandler]" title="Monster Handler page5"><img src="images/da_mh_ink5_thumb.png" height="46px" width="42px" alt="Monster Handler page5" /></a></div>
+				<div class="thumbnail"><a href="images/da_mh_ink6.png" rel="lightbox[monsterhandler]" title="Monster Handler page6"><img src="images/da_mh_ink6_thumb.png" height="46px" width="42px" alt="Monster Handler page6" /></a></div>
+				<div class="thumbnail"><a href="images/da_mh_ink7.png" rel="lightbox[monsterhandler]" title="Monster Handler page7"><img src="images/da_mh_ink7_thumb.png" height="46px" width="42px" alt="Monster Handler page7" /></a></div>
+				<div class="thumbnail"><a href="images/da_mh_ink8.png" rel="lightbox[monsterhandler]" title="Monster Handler page8"><img src="images/da_mh_ink8_thumb.png" height="46px" width="42px" alt="Monster Handler page8" /></a></div>
+				<div class="thumbnail"><a href="images/da_mh_ink9.png" rel="lightbox[monsterhandler]" title="Monster Handler page9"><img src="images/da_mh_ink9_thumb.png" height="46px" width="42px" alt="Monster Handler page9" /></a></div>
+				<h6 class="clear">NoisePop 2011 Concert Review</h6>
+				<div class="thumbnail"><a href="images/concretes.png" rel="lightbox[noisepop]" title="NoisePop 2011 Concert Review: http://2011.noisepop.com/comics/"><img src="images/concretes_thumb.png" height="46px" width="42px" alt="NoisePop 2011 Concert Review" /></a></div>
+				<h6 class="clear">AVAST! Part 3 (2011)</h6>
 				<div class="thumbnail"><a href="images/avast_page1.png" rel="lightbox[avast]" title="AVAST! Part3 page1"><img src="images/avast_page1_thumb.png" height="46px" width="42px" alt="AVAST! Part3 page1" /></a></div>
 				<div class="thumbnail"><a href="images/avast_page2.png" rel="lightbox[avast]" title="AVAST! Part3 page2"><img src="images/avast_page2_thumb.png" height="46px" width="42px" alt="AVAST! Part3 page2" /></a></div>
 				<div class="thumbnail"><a href="images/avast_page3.png" rel="lightbox[avast]" title="AVAST! Part3 page3"><img src="images/avast_page3_thumb.png" height="46px" width="42px" alt="AVAST! Part3 page3" /></a></div>
@@ -19,17 +31,17 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 				<div class="thumbnail"><a href="images/avast_page6.png" rel="lightbox[avast]" title="AVAST! Part3 page6"><img src="images/avast_page6_thumb.png" height="46px" width="42px" alt="AVAST! Part3 page6" /></a></div>
 				<div class="thumbnail"><a href="images/avast_page7.png" rel="lightbox[avast]" title="AVAST! Part3 page7"><img src="images/avast_page7_thumb.png" height="46px" width="42px" alt="AVAST! Part3 page7" /></a></div>
 				<div class="thumbnail"><a href="images/avast_page8.png" rel="lightbox[avast]" title="AVAST! Part3 page8"><img src="images/avast_page8_thumb.png" height="46px" width="42px" alt="AVAST! Part3 page8" /></a></div>
-				<h6 class="clear">Jackets</h6>
+				<h6 class="clear">Jackets (2011)</h6>
 				<div class="thumbnail"><a href="images/jackets_page1.png" rel="lightbox[jackets]" title="Jackets page1"><img src="images/jackets_page1_thumb.png" height="46px" width="42px" alt="Jackets page1" /></a></div>
 				<div class="thumbnail"><a href="images/jackets_page2.png" rel="lightbox[jackets]" title="Jackets page2"><img src="images/jackets_page2_thumb.png" height="46px" width="42px" alt="Jackets page2" /></a></div>
-				<h6 class="clear">Solstice Submarine</h6>
+				<h6 class="clear">Solstice Submarine (2010)</h6>
 				<div class="thumbnail"><a href="images/submarine_cover.png" rel="lightbox[solsticesub]" title="Solstice Submarine cover"><img src="images/submarine_cover_thumb.png" height="46px" width="42px" alt="Solstice Submarine cover" /></a></div>
 				<div class="thumbnail"><a href="images/submarine_page1.png" rel="lightbox[solsticesub]" title="Solstice Submarine page1"><img src="images/submarine_page1_thumb.png" height="46px" width="42px" alt="Solstice Submarine page1" /></a></div>
 				<div class="thumbnail"><a href="images/submarine_page2.png" rel="lightbox[solsticesub]" title="Solstice Submarine page2"><img src="images/submarine_page2_thumb.png" height="46px" width="42px" alt="Solstice Submarine page2" /></a></div>
 				<div class="thumbnail"><a href="images/submarine_page3.png" rel="lightbox[solsticesub]" title="Solstice Submarine page3"><img src="images/submarine_page3_thumb.png" height="46px" width="42px" alt="Solstice Submarine page3" /></a></div>
 				<div class="thumbnail"><a href="images/submarine_page4.png" rel="lightbox[solsticesub]" title="Solstice Submarine page4"><img src="images/submarine_page4_thumb.png" height="46px" width="42px" alt="Solstice Submarine page4" /></a></div>
 				<div class="thumbnail"><a href="images/submarine_backcover.png" rel="lightbox[solsticesub]" title="Solstice Submarine backcover"><img src="images/submarine_backcover_thumb.png" height="46px" width="42px" alt="Solstice Submarine backcover" /></a></div>
-				<h6 class="clear">Tunnels</h6>
+				<h6 class="clear">Tunnels (2010)</h6>
 				<div class="thumbnail"><a href="images/tunnels_page1.png" rel="lightbox[tunnels]" title="Tunnels page1"><img src="images/tunnels_page1_thumb.png" height="46px" width="42px" alt="Tunnels page1" /></a></div>
 				<div class="thumbnail"><a href="images/tunnels_page2.png" rel="lightbox[tunnels]" title="Tunnels page2"><img src="images/tunnels_page2_thumb.png" height="46px" width="42px" alt="Tunnels page2" /></a></div>
 				<div class="thumbnail"><a href="images/tunnels_page3.png" rel="lightbox[tunnels]" title="Tunnels page3"><img src="images/tunnels_page3_thumb.png" height="46px" width="42px" alt="Tunnels page3" /></a></div>
@@ -41,14 +53,14 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 				<div class="thumbnail"><a href="images/tunnels_page8.png" rel="lightbox[tunnels]" title="Tunnels page8"><img src="images/tunnels_page8_thumb.png" height="46px" width="42px" alt="Tunnels page8" /></a></div>
 				<div class="thumbnail"><a href="images/tunnels_page9.png" rel="lightbox[tunnels]" title="Tunnels page9"><img src="images/tunnels_page9_thumb.png" height="46px" width="42px" alt="Tunnels page9" /></a></div>
 				<div class="thumbnail"><a href="images/tunnels_page10.png" rel="lightbox[tunnels]" title="Tunnels page10"><img src="images/tunnels_page10_thumb.png" height="46px" width="42px" alt="Tunnels page10" /></a></div>
-				<h6 class="clear">A Bird to Remember</h6>
+				<h6 class="clear">A Bird to Remember (2010)</h6>
 				<div class="thumbnail"><a href="images/birdtoremember_cover.png" rel="lightbox[birdremember]" title="A Bird to Remember cover"><img src="images/birdtoremember_cover_thumb.png" height="46px" width="42px" alt="A Bird to Remember cover" /></a></div>
 				<div class="thumbnail"><a href="images/birdtoremember_page1.png" rel="lightbox[birdremember]" title="A Bird to Remember page1"><img src="images/birdtoremember_page1_thumb.png" height="46px" width="42px" alt="A Bird to Remember page1" /></a></div>
 				<div class="thumbnail"><a href="images/birdtoremember_page2.png" rel="lightbox[birdremember]" title="A Bird to Remember page2"><img src="images/birdtoremember_page2_thumb.png" height="46px" width="42px" alt="A Bird to Remember page2" /></a></div>
 				<div class="thumbnail"><a href="images/birdtoremember_page3.png" rel="lightbox[birdremember]" title="A Bird to Remember page3"><img src="images/birdtoremember_page3_thumb.png" height="46px" width="42px" alt="A Bird to Remember page3" /></a></div>
 				<div class="thumbnail"><a href="images/birdtoremember_page4.png" rel="lightbox[birdremember]" title="A Bird to Remember page4"><img src="images/birdtoremember_page4_thumb.png" height="46px" width="42px" alt="A Bird to Remember page4" /></a></div>
 				<div class="thumbnail"><a href="images/birdtoremember_backcover.png" rel="lightbox[birdremember]" title="A Bird to Remember backcover"><img src="images/birdtoremember_backcover_thumb.png" height="46px" width="42px" alt="A Bird to Remember backcover" /></a></div>
-				<h6 class="clear">Nancy</h6>
+				<h6 class="clear">Nancy (2010)</h6>
 				<div class="thumbnail"><a href="images/nancy_strip1.png" rel="lightbox[Nancy]" title="Nancy Strips"><img src="images/nancy_strip1_thumb.png" height="46px" width="42px" alt="Nancy Strips" /></a></div>
 				<div class="thumbnail"><a href="images/nancy_strip2.png" rel="lightbox[Nancy]" title="Nancy Strips"><img src="images/nancy_strip2_thumb.png" height="46px" width="42px" alt="Nancy Strips" /></a></div>
 			</div>
