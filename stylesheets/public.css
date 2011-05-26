@@ -109,10 +109,6 @@ green {
 	
 	float: left;
 	
-	font-family: "Fontin Sans", "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
-	font-size: 24px;
-	color: #ffffff;	
-	
 	background: #2c2e2e url("../images/nav_bg.png") no-repeat;
 	margin: 25px 0 25px 0;
 	-moz-border-radius: 15px;
@@ -137,7 +133,6 @@ green {
 
 	width: 578px;
 	
-	font-family: "Fontin Sans", "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
 	font-size: 14px;
 	color: #ffffff;
 	
@@ -188,7 +183,6 @@ green {
 	text-align: center;
 	color: #ffffff;
 	
-	font-family: "Fontin Sans", "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
 	font-size: 14px;	
 	line-height: 35px;
 }
