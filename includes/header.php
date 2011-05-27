@@ -1,4 +1,3 @@
-
 <!DOCTYPE HTML>
 <html lang="en-US">
 
@@ -12,7 +11,7 @@ the GNU GPL v3 licenses (see GPL-LICENSE).
 Copyright 2011 Donna Almendrala (see AUTHORS)
 -->
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-	<link rel="icon" type="image/png" href="images/favicon.png">
+	<link rel="icon" type="image/png" href="images/favicon.png" />
 	<title>Donna Almendrala | Portfolio</title>
 	<link href="stylesheets/reset.css" media="all" rel="stylesheet" type="text/css" />
 	<link href="stylesheets/fonts.css" media="all" rel="stylesheet" type="text/css" />
@@ -32,6 +31,7 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 					<li><a href="index.php">Comics</a></li>
 					<li><a href="illustration.php">Illustration</a></li>
 					<li><a href="sketchbook.php">Sketchbook</a></li>
+					<li><a href="sitedesign.php">Site Design</a></li>
 					<li><a href="contact.php">Contact</a></li>
 				</ul>
 			</div>
